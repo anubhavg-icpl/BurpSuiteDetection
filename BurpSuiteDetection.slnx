@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BurpSuiteDetection.Tests/BurpSuiteDetection.Tests.csproj" />
+  <Project Path="BurpSuiteDetection/BurpSuiteDetection.csproj" />
+</Solution>
